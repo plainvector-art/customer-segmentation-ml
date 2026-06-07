@@ -1,0 +1,10 @@
+1. Occasional Buyers generates the largest revenue share at 45.4% of annual spending.
+2. Customers aged (34, 44] contribute the highest revenue share at 30.9%.
+3. Premium Loyalists has the highest average annual spending at USD 9,313.
+4. Premium Loyalists purchases most often, averaging 38.6 purchases per year.
+5. At-Risk Customers has the longest average recency window at 196 days and should receive win-back messaging.
+6. Occasional Buyers is the largest audience, representing 42.2% of customers.
+7. Premium Loyalists is the strongest online segment and is best suited for app, email, and web personalization campaigns.
+8. At-Risk Customers has the highest average order value at USD 1,135, making it attractive for bundles and premium assortments.
+9. At-Risk Customers has the lowest purchase frequency, so frequency-building offers can lift revenue without changing acquisition spend.
+10. RFM comparison shows Premium Loyalists has the highest concentration of Champion customers, validating it as a priority retention segment.

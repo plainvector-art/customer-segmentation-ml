@@ -1,0 +1,4 @@
+model,n_clusters,noise_points,silhouette,davies_bouldin,calinski_harabasz
+K-Means,4,0,0.2924476590872519,1.1276100498179953,3058.6016047520147
+Hierarchical,4,0,0.2713980185920208,1.0542741620712963,2662.118288179992
+DBSCAN,1,18,,,

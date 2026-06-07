@@ -1,0 +1,5 @@
+Cluster,Segment_Name,Segment_Size,Avg_Age,Avg_Income,Avg_Annual_Spending,Avg_Purchase_Frequency,Avg_Average_Order_Value,Avg_Last_Purchase_Days,Top_Category,Top_RFM_Segment,Recommended_Strategy
+0,At-Risk Customers,161,40.98,62338.95,2405.76,2.28,1134.9,196.07,Fashion,Low Value,"Win-back journeys, replenishment reminders, and limited-time reactivation offers."
+1,Occasional Buyers,2535,33.3,80282.62,5029.27,25.31,215.52,59.8,Fashion,Loyal,"Nurture with category recommendations, seasonal offers, and frequency-building campaigns."
+2,Budget Shoppers,2105,37.43,52729.47,1790.42,10.78,195.66,168.23,Fashion,Low Value,"Targeted discounts, value bundles, and price-led promotional campaigns."
+3,Premium Loyalists,1199,40.74,130877.07,9313.21,38.57,255.19,28.34,Fashion,Champions,"VIP rewards, early access, premium bundles, and referral incentives."

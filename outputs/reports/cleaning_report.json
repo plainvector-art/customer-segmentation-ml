@@ -1,0 +1,39 @@
+{
+  "rows_before": 6035,
+  "rows_after": 6000,
+  "duplicates_removed": 35,
+  "missing_values_before": {
+    "Customer_ID": 0,
+    "Age": 0,
+    "Gender": 0,
+    "Income": 60,
+    "Marital_Status": 0,
+    "Education": 60,
+    "Occupation": 0,
+    "Location": 0,
+    "Annual_Spending": 0,
+    "Purchase_Frequency": 0,
+    "Average_Order_Value": 60,
+    "Product_Category_Preference": 60,
+    "Last_Purchase_Days": 0,
+    "Online_Purchases": 0,
+    "Store_Purchases": 0
+  },
+  "missing_values_after": {
+    "Customer_ID": 0,
+    "Age": 0,
+    "Gender": 0,
+    "Income": 0,
+    "Marital_Status": 0,
+    "Education": 0,
+    "Occupation": 0,
+    "Location": 0,
+    "Annual_Spending": 0,
+    "Purchase_Frequency": 0,
+    "Average_Order_Value": 0,
+    "Product_Category_Preference": 0,
+    "Last_Purchase_Days": 0,
+    "Online_Purchases": 0,
+    "Store_Purchases": 0
+  }
+}

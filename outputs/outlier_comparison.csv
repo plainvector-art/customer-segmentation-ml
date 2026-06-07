@@ -1,0 +1,9 @@
+feature,iqr_outliers,zscore_outliers
+Age,31,20
+Income,158,42
+Annual_Spending,59,23
+Purchase_Frequency,12,10
+Average_Order_Value,361,125
+Last_Purchase_Days,324,122
+Online_Purchases,60,38
+Store_Purchases,151,65
